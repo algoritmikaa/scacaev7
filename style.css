@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(15, 148, 201);
+    color: azure;
+    padding: 50px;
+    border-radius: 10px;
+}
